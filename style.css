@@ -1,0 +1,244 @@
+@font-face {
+    font-family: 'sourcesanspro';
+    font-style: normal;
+    font-weight: bold;
+    font-display: block;
+    src: url(https://design.penpot.app/fonts/sourcesanspro-bold.woff) format('woff');
+  }
+  
+@font-face {
+    font-family: 'sourcesanspro';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url(https://design.penpot.app/fonts/sourcesanspro-regular.woff) format('woff');
+  }
+
+html, body {
+  margin-top: 50;
+  min-height: 100%;
+  min-width: 100%;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  min-height: 170vh;
+}
+
+* {
+  box-sizing: content-box;
+}
+
+.text-node { background-clip: text !important; -webkit-background-clip: text !important; }
+
+/* PDF form */
+.pdfForm {
+  position: relative;
+  width: 100%;
+  background: #fafafa;
+  overflow: visible;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-items: start;
+  justify-content: start;
+  row-gap: 13.75px;
+  z-index: 0;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  grid-template-rows: 170px 170px 170px 170px auto;
+  grid-template-columns: 710px;
+}
+
+/* footer */
+.footer {
+  position: relative;
+  width: 710px;
+  height: 65px;
+  background: #Fafafa;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: center;
+  column-gap: 75px;
+  padding: 8px 10px 8px 10px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+}
+
+/* AVG_Icon_Navy */
+.avgIcon {
+  width: 30px;
+  height: 30px; 
+  flex-shrink: 0;
+  margin: 10px 0px 10px 0px;
+}
+
+/* footer */
+.footerText {
+  font-size: small;
+  width: 520px;
+  height: 15px;
+  flex-shrink: 0;
+  margin: 0px 20px 0px 0px;
+}
+
+
+/* graphs */
+.graph {
+  width: 750px;
+  height: 250px;
+  border: 1px solid #002554;
+  border-radius: 10px;
+  flex-shrink: 0;
+}
+
+
+/*graph header*/
+.graphHeader {
+  background-color: #002554;
+  color: #fafafa;
+  padding: 7px;
+  font-size: 20px;
+  text-align: center;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+}
+
+
+/* Header */
+.header {
+  position: relative;
+  width: 710px;
+  height: 175px;
+  background: #fafafa;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: start;
+  column-gap: 21px;
+  padding: 4px 11px 4px 11px;
+  flex-direction: row-reverse;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+}
+
+/* Dr. Melanie Ortega
+Tenure 0.7 years with AVG
+Early Career */
+.dvm {
+  width: 515px;
+  height: 138px;
+}
+
+.dvm .root {
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+
+.dvm .pageTitle {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+
+.dvm .line1 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+  color: rgba(0, 37, 84, 1);
+  text-transform: none;
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 48px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 37, 84, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "sourcesanspro";
+  font-style: normal;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+
+.dvm .docName {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+  color: rgba(0, 37, 84, 1);
+  text-transform: none;
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 18px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 37, 84, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "sourcesanspro";
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dvm .tenure {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+  color: rgba(0, 37, 84, 1);
+  text-transform: none;
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 18px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 37, 84, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "sourcesanspro";
+  font-style: normal;
+  font-weight: 400;
+  padding-bottom: 10px;
+}
+
+.dvm .careerPhase {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+  color: rgba(0, 37, 84, 1);
+  text-transform: none;
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 18px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 37, 84, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "sourcesanspro";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/*Logo*/
+.logo {
+  max-width: 129px;
+  max-height: 57px;
+}

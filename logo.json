@@ -1,0 +1,477 @@
+[
+    {
+        "locationid": "103",
+        "path": ".\\logo\\PracticeLogos\\103_english_plaza.png",
+        "size": 12390
+    },
+    {
+        "locationid": "105",
+        "path": ".\\logo\\PracticeLogos\\105_nortport_sl.png",
+        "size": 7593
+    },
+    {
+        "locationid": "106",
+        "path": ".\\logo\\PracticeLogos\\106_animal_medical_clinic_sj.png",
+        "size": 47581
+    },
+    {
+        "locationid": "107",
+        "path": ".\\logo\\PracticeLogos\\107_lakeside-fl.png",
+        "size": 34557
+    },
+    {
+        "locationid": "108",
+        "path": ".\\logo\\PracticeLogos\\108_parkway.png",
+        "size": 65350
+    },
+    {
+        "locationid": "109",
+        "path": ".\\logo\\PracticeLogos\\109_magnolia.png",
+        "size": 13263
+    },
+    {
+        "locationid": "110",
+        "path": ".\\logo\\PracticeLogos\\110_allpets.png",
+        "size": 38561
+    },
+    {
+        "locationid": "111",
+        "path": ".\\logo\\PracticeLogos\\111_heart_of_florida.png",
+        "size": 30020
+    },
+    {
+        "locationid": "112",
+        "path": ".\\logo\\PracticeLogos\\112_haile_plantation.png",
+        "size": 36696
+    },
+    {
+        "locationid": "113",
+        "path": ".\\logo\\PracticeLogos\\113_lineberger.png",
+        "size": 22016
+    },
+    {
+        "locationid": "114",
+        "path": ".\\logo\\PracticeLogos\\114_atlas.png",
+        "size": 14210
+    },
+    {
+        "locationid": "117",
+        "path": ".\\logo\\PracticeLogos\\117_south_point.png",
+        "size": 65165
+    },
+    {
+        "locationid": "118",
+        "path": ".\\logo\\PracticeLogos\\118_care.png",
+        "size": 3868
+    },
+    {
+        "locationid": "119",
+        "path": ".\\logo\\PracticeLogos\\119_southgate.png",
+        "size": 14269
+    },
+    {
+        "locationid": "120",
+        "path": ".\\logo\\PracticeLogos\\120_countrychase.png",
+        "size": 201465
+    },
+    {
+        "locationid": "121",
+        "path": ".\\logo\\PracticeLogos\\121_dadeland.png",
+        "size": 66751
+    },
+    {
+        "locationid": "122",
+        "path": ".\\logo\\PracticeLogos\\122_springhill.png",
+        "size": 26384
+    },
+    {
+        "locationid": "124",
+        "path": ".\\logo\\PracticeLogos\\124_riverside.png",
+        "size": 15047
+    },
+    {
+        "locationid": "125",
+        "path": ".\\logo\\PracticeLogos\\125_academy.png",
+        "size": 10266
+    },
+    {
+        "locationid": "126",
+        "path": ".\\logo\\PracticeLogos\\126_dogwood.png",
+        "size": 34421
+    },
+    {
+        "locationid": "129",
+        "path": ".\\logo\\PracticeLogos\\129_southside.png",
+        "size": 27249
+    },
+    {
+        "locationid": "130",
+        "path": ".\\logo\\PracticeLogos\\130_satilla.png",
+        "size": 9595
+    },
+    {
+        "locationid": "131",
+        "path": ".\\logo\\PracticeLogos\\131_panhandle.png",
+        "size": 7697
+    },
+    {
+        "locationid": "132",
+        "path": ".\\logo\\PracticeLogos\\132_upper_keys.png",
+        "size": 225652
+    },
+    {
+        "locationid": "133",
+        "path": ".\\logo\\PracticeLogos\\133_benning.png",
+        "size": 14342
+    },
+    {
+        "locationid": "134",
+        "path": ".\\logo\\PracticeLogos\\134_beeridge.png",
+        "size": 20901
+    },
+    {
+        "locationid": "135",
+        "path": ".\\logo\\PracticeLogos\\135_kimbrough.png",
+        "size": 23659
+    },
+    {
+        "locationid": "136",
+        "path": ".\\logo\\PracticeLogos\\136_town_country.png",
+        "size": 15970
+    },
+    {
+        "locationid": "138",
+        "path": ".\\logo\\PracticeLogos\\138_shepard_spring.png",
+        "size": 24151
+    },
+    {
+        "locationid": "139",
+        "path": ".\\logo\\PracticeLogos\\139_ScottsCreek.png",
+        "size": 7242
+    },
+    {
+        "locationid": "140",
+        "path": ".\\logo\\PracticeLogos\\140_lincolnton.png",
+        "size": 60137
+    },
+    {
+        "locationid": "141",
+        "path": ".\\logo\\PracticeLogos\\141_durant.png",
+        "size": 65424
+    },
+    {
+        "locationid": "142",
+        "path": ".\\logo\\PracticeLogos\\142_lindsey_wills.png",
+        "size": 53621
+    },
+    {
+        "locationid": "143",
+        "path": ".\\logo\\PracticeLogos\\143_wbvc.png",
+        "size": 27795
+    },
+    {
+        "locationid": "144",
+        "path": ".\\logo\\PracticeLogos\\144_longview.png",
+        "size": 13467
+    },
+    {
+        "locationid": "145",
+        "path": ".\\logo\\PracticeLogos\\145_west_lake_worth.png",
+        "size": 275966
+    },
+    {
+        "locationid": "146",
+        "path": ".\\logo\\PracticeLogos\\146_asheboro.png",
+        "size": 18610
+    },
+    {
+        "locationid": "147",
+        "path": ".\\logo\\PracticeLogos\\147_Circle-of-Life-Animal-Hospital.png",
+        "size": 32004
+    },
+    {
+        "locationid": "148",
+        "path": ".\\logo\\PracticeLogos\\148_pasquotank.png",
+        "size": 18853
+    },
+    {
+        "locationid": "149",
+        "path": ".\\logo\\PracticeLogos\\149_northside_tx.png",
+        "size": 45556
+    },
+    {
+        "locationid": "150",
+        "path": ".\\logo\\PracticeLogos\\150_animal_health_lol.png",
+        "size": 30896
+    },
+    {
+        "locationid": "151",
+        "path": ".\\logo\\PracticeLogos\\151_leesburg.png",
+        "size": 8629
+    },
+    {
+        "locationid": "152",
+        "path": ".\\logo\\PracticeLogos\\152_south_ocala.png",
+        "size": 11969
+    },
+    {
+        "locationid": "154",
+        "path": ".\\logo\\PracticeLogos\\154_oak_ridge.png",
+        "size": 31084
+    },
+    {
+        "locationid": "160",
+        "path": ".\\logo\\PracticeLogos\\160_ah_peak_plaza.png",
+        "size": 32575
+    },
+    {
+        "locationid": "161",
+        "path": ".\\logo\\PracticeLogos\\161_companion.png",
+        "size": 68383
+    },
+    {
+        "locationid": "162",
+        "path": ".\\logo\\PracticeLogos\\162_compassion.png",
+        "size": 421265
+    },
+    {
+        "locationid": "163",
+        "path": ".\\logo\\PracticeLogos\\163_raleigh_community.png",
+        "size": 19508
+    },
+    {
+        "locationid": "164",
+        "path": ".\\logo\\PracticeLogos\\164_Branch's Veterinary Clinic Logo - Tifton Small.png",
+        "size": 129888
+    },
+    {
+        "locationid": "165",
+        "path": ".\\logo\\PracticeLogos\\165_Branch's Veterinary Clinic Logo - Nashville Small.png",
+        "size": 131111
+    },
+    {
+        "locationid": "166",
+        "path": ".\\logo\\PracticeLogos\\166_cordovastation.png",
+        "size": 44425
+    },
+    {
+        "locationid": "169",
+        "path": ".\\logo\\PracticeLogos\\169_jensen_beach.png",
+        "size": 53269
+    },
+    {
+        "locationid": "170",
+        "path": ".\\logo\\PracticeLogos\\170_bradford.png",
+        "size": 10261
+    },
+    {
+        "locationid": "171",
+        "path": ".\\logo\\PracticeLogos\\171_dothan.png",
+        "size": 15305
+    },
+    {
+        "locationid": "172",
+        "path": ".\\logo\\PracticeLogos\\172_lighthouse.png",
+        "size": 94752
+    },
+    {
+        "locationid": "173",
+        "path": ".\\logo\\PracticeLogos\\173_gulf_gate.png",
+        "size": 48693
+    },
+    {
+        "locationid": "174",
+        "path": ".\\logo\\PracticeLogos\\174_NewNavarreLogo.png",
+        "size": 142337
+    },
+    {
+        "locationid": "176",
+        "path": ".\\logo\\PracticeLogos\\176_Village Animal Clinic Logo.png",
+        "size": 268563
+    },
+    {
+        "locationid": "177",
+        "path": ".\\logo\\PracticeLogos\\177_westwood.png",
+        "size": 212563
+    },
+    {
+        "locationid": "178",
+        "path": ".\\logo\\PracticeLogos\\178_clanton-malphus-hodges.png",
+        "size": 45109
+    },
+    {
+        "locationid": "179",
+        "path": ".\\logo\\PracticeLogos\\179_lake_hickory.png",
+        "size": 14106
+    },
+    {
+        "locationid": "180",
+        "path": ".\\logo\\PracticeLogos\\180_small_ah.png",
+        "size": 34053
+    },
+    {
+        "locationid": "181",
+        "path": ".\\logo\\PracticeLogos\\181_petcare.png",
+        "size": 21068
+    },
+    {
+        "locationid": "182",
+        "path": ".\\logo\\PracticeLogos\\182_crossroads.png",
+        "size": 38512
+    },
+    {
+        "locationid": "183",
+        "path": ".\\logo\\PracticeLogos\\183_ah_montgomery.png",
+        "size": 94449
+    },
+    {
+        "locationid": "184",
+        "path": ".\\logo\\PracticeLogos\\184_angel.png",
+        "size": 16569
+    },
+    {
+        "locationid": "185",
+        "path": ".\\logo\\PracticeLogos\\185_acworth.png",
+        "size": 15033
+    },
+    {
+        "locationid": "186",
+        "path": ".\\logo\\PracticeLogos\\186_bartow.png",
+        "size": 14014
+    },
+    {
+        "locationid": "187",
+        "path": ".\\logo\\PracticeLogos\\187_lakecity_ga.png",
+        "size": 15305
+    },
+    {
+        "locationid": "189",
+        "path": ".\\logo\\PracticeLogos\\189_caldwell.png",
+        "size": 31974
+    },
+    {
+        "locationid": "192",
+        "path": ".\\logo\\PracticeLogos\\192_forest_lakes.png",
+        "size": 459282
+    },
+    {
+        "locationid": "193",
+        "path": ".\\logo\\PracticeLogos\\193_estero.png",
+        "size": 159814
+    },
+    {
+        "locationid": "194",
+        "path": ".\\logo\\PracticeLogos\\194_piedmont_equine.png",
+        "size": 17667
+    },
+    {
+        "locationid": "195",
+        "path": ".\\logo\\PracticeLogos\\195_stuart_sound.png",
+        "size": 14306
+    },
+    {
+        "locationid": "196",
+        "path": ".\\logo\\PracticeLogos\\196_cherryville.png",
+        "size": 6111
+    },
+    {
+        "locationid": "197",
+        "path": ".\\logo\\PracticeLogos\\197_suwannee.png",
+        "size": 12806
+    },
+    {
+        "locationid": "198",
+        "path": ".\\logo\\PracticeLogos\\198_courtenay.png",
+        "size": 18174
+    },
+    {
+        "locationid": "199",
+        "path": ".\\logo\\PracticeLogos\\199_lakeside_nc.png",
+        "size": 49841
+    },
+    {
+        "locationid": "203",
+        "path": ".\\logo\\PracticeLogos\\203_daniels parkway ah.png",
+        "size": 8239
+    },
+    {
+        "locationid": "207",
+        "path": ".\\logo\\PracticeLogos\\207_rocky_creek.png",
+        "size": 20822
+    },
+    {
+        "locationid": "210",
+        "path": ".\\logo\\PracticeLogos\\210_mitchell_co.png",
+        "size": 139731
+    },
+    {
+        "locationid": "212",
+        "path": ".\\logo\\PracticeLogos\\212_bainbridge.png",
+        "size": 626349
+    },
+    {
+        "locationid": "213",
+        "path": ".\\logo\\PracticeLogos\\213_cairo.png",
+        "size": 107411
+    },
+    {
+        "locationid": "220",
+        "path": ".\\logo\\PracticeLogos\\220_winter_garden.png",
+        "size": 19554
+    },
+    {
+        "locationid": "221",
+        "path": ".\\logo\\PracticeLogos\\221_azalea_city.png",
+        "size": 6475
+    },
+    {
+        "locationid": "223",
+        "path": ".\\logo\\PracticeLogos\\223_hillside.png",
+        "size": 96373
+    },
+    {
+        "locationid": "227",
+        "path": ".\\logo\\PracticeLogos\\227_animal_general.png",
+        "size": 43971
+    },
+    {
+        "locationid": "230",
+        "path": ".\\logo\\PracticeLogos\\230_lakecity_fl.png",
+        "size": 20954
+    },
+    {
+        "locationid": "231",
+        "path": ".\\logo\\PracticeLogos\\231_dykes_vc.png",
+        "size": 45226
+    },
+    {
+        "locationid": "232",
+        "path": ".\\logo\\PracticeLogos\\232_baytree.png",
+        "size": 14562
+    },
+    {
+        "locationid": "234",
+        "path": ".\\logo\\PracticeLogos\\234_pleasantburg.png",
+        "size": 6665
+    },
+    {
+        "locationid": "247",
+        "path": ".\\logo\\PracticeLogos\\247_centralflorida.png",
+        "size": 151726
+    },
+    {
+        "locationid": "273",
+        "path": ".\\logo\\PracticeLogos\\273_baldwin.png",
+        "size": 147619
+    },
+    {
+        "locationid": "275",
+        "path": ".\\logo\\PracticeLogos\\275_gulfshore.png",
+        "size": 959657
+    },
+    {
+        "locationid": "888",
+        "path": ".\\logo\\PracticeLogos\\888_avg.png",
+        "size": 14438
+    }
+]

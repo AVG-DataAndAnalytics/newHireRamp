@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DVM Launch Plan</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+   <!-- PDF form -->
+<div class="pdfForm">
+    <!-- Header -->
+    <div class="header">
+      <!-- Clinic Logo  -->
+      <div id="logo" class="logo"></div>
+
+      <!-- DVM Launch Plan
+  Dr. Melanie Ortega
+  Tenure 0.7 years with AVG
+  Early Career -->
+      <div class="dvm">
+        <div class="text-node-html" id="html-text-node-b4d33b13-5b54-80f8-8005-d79e83a6cd6c" data-x="242.9999999999999" data-y="-48">
+          <div class="root rich-text root" style="display:flex;white-space:break-spaces;align-items:flex-start" xmlns="http://www.w3.org/1999/xhtml">
+            <div class="pageTitle">
+              <p class="line1">DVM Launch Plan</p>
+              <p id="docName" class="docName"></p>
+              <p id="tenure" class="tenure"></p>
+              <p id="careerPhase" class="careerPhase"></p>            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- graph1 -->
+    <div class="graph">
+      <div class="graphHeader">Revenue Per Day</div>
+        <div>
+            <canvas id="graph1" style="width: 100%; max-width: 900px; max-height: 200px;"></canvas>
+        </div>
+    </div>
+
+    <!-- graph2 -->
+    <div class="graph"> 
+      <div class="graphHeader">Visits Per Day</div>
+      <div>
+        <canvas id="graph2" style="width: 100%; max-width: 900px; max-height: 200px;"></canvas>
+      </div>
+    </div>
+
+    <!-- graph3 -->
+    <div class="graph">
+      <div class="graphHeader">Revenue Per Visit</div>
+      <div>
+        <canvas id="graph3" style="width: 100%; max-width: 900px; max-height: 200px;"></canvas>
+      </div>
+    </div>
+
+    <!-- footer -->
+    <div class="footer">
+      <div class="footerText">
+        <div class="text-node-html" id="html-text-node-b4d33b13-5b54-80f8-8005-d7a332e030f0" data-x="237" data-y="647"> 
+          <div class="root" style="display:flex;white-space:break-spaces;align-items:flex-start" xmlns="http://www.w3.org/1999/xhtml">
+              <p class="paragraph doctor">*** If you have any questions please connect with your Regional Director or Regional Medical Director.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- AVG_Icon_Navy -->
+      <div class="avgIcon">
+        <img src="logo/AVG_Icon_Navy.png" style="max-height: 30px;">
+      </div>
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="dvmTransparency.js"></script>
+</body>
+</html>

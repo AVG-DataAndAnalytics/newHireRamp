@@ -1,0 +1,99 @@
+EmployeeId,LocationId,LocationName,Name,HireDate,ExpLevel
+4177,193,Estero Animal Hospital,Abraham Haller,4/3/2024,Experienced
+5022,184,Angel Animal Hospital and Boarding,Abraham Robinson,9/17/2024,Experienced
+4606,176,Village Animal Clinic,Alex Hughes,6/18/2024,New Grad
+071CU58X0,195,Stuart Sound Animal Hospital,Allison Murawski,9/18/2023,Early Career
+4572,170,Bradford Animal Hospital,Alyssa Brucker,6/11/2024,Early Career
+4331,139,Scotts Creek,Andrea Randazzo,4/30/2024,Experienced
+ABXUMPP0F,197,Suwannee Valley Veterinary Clinic,Angela Spann,5/31/2023,Experienced
+5116,149,Northside Animal Clinic,Anna Mills,10/1/2024,Experienced
+5227,103,English Plaza,Antonio Fernandez,10/29/2024,Early Career
+C85931,180,Small Animal Hospital,Arturo Fernandez,9/29/2023,Early Career
+4TN33EKPM,199,Lakeside Animal Hospital (NC),Breanna Halisky,2/28/2023,Early Career
+5177,175,Durham Veterinary Clinic,Brenton Credille,10/8/2024,Experienced
+4181,139,Scotts Creek,Breton Anderson,4/2/2024,Experienced
+4343,150,Animal Health Center of Land O Lakes,Brianna Aquino-Moreta,5/6/2024,New Grad
+G82623,160,Animal Hospital of Peak Plaza,Brittany Moore,11/1/2022,Experienced
+4860,160,Animal Hospital of Peak Plaza,Brooke Bennes,8/5/2024,Early Career
+3IKV324AX,134,Bee Ridge Veterinary Clinic,Bruce Mclaughlin,4/17/2023,Experienced
+M86805,242,Big Springs Veterinary Hospital,Carrie Talley,12/1/2022,Experienced
+4834,231,Dykes Veterinary Clinic,Casey Busby,7/16/2024,New Grad
+O4L1GCXK6,175,Durham Veterinary Clinic,Cassidy Pike,8/22/2023,New Grad
+5500,242,Big Springs Veterinary Hospital,Catherine Whitman,1/7/2025,Early Career
+BAQ8AVWMN,273,Baldwin Animal Clinic,Cecelia Johnston,12/1/2023,Early Career
+5695,198,Courtenay Animal Hospital,Christine Jenkins,2/19/2025,Experienced
+5058,220,Winter Garden Animal Hospital,Christopher Bruckart,9/18/2024,Experienced
+U81747,231,Dykes Veterinary Clinic,Christopher Schreiber,10/24/2022,Experienced
+UO24BZ5F0,275,Gulfshore Animal Hospital,Clare Randt,11/1/2023,Early Career
+4208,154,Oak Ridge Animal Clinic,Constance Vernham,4/9/2024,New Grad
+5280,109,Magnolia,Damiana Gumiran,11/6/2024,Early Career
+4738,145,Animal Clinic of West Lake Worth,Danielle Paul,7/16/2024,New Grad
+XM3VZ9HY7,110,All Pets,Danielle West,6/5/2023,Early Career
+Z81728,234,Pleasantburg Veterinary Clinic,Darryl Mcelveen,10/20/2022,Experienced
+0USWHQIIE,275,Gulfshore Animal Hospital,David Ball,11/1/2023,Experienced
+H81760,231,Dykes Veterinary Clinic,David Dykes,10/24/2022,Experienced
+J86802,242,Big Springs Veterinary Hospital,Deanna Walker,12/1/2022,Experienced
+OKYGWVRT9,275,Gulfshore Animal Hospital,Denni Cook,11/1/2023,Early Career
+7ODXV22A5,203,Daniels Parkway Animal Hospital,Donna Allen,11/24/2023,Experienced
+I86801,242,Big Springs Veterinary Hospital,Elizabeth Crump,12/1/2022,Experienced
+O2VM5OF7H,174,Navarre Animal Hospital,Eric Kapke,4/24/2023,Experienced
+5267,122,Spring Hill,Eric Yeager,11/5/2024,Experienced
+OUAYNYQ0G,199,Lakeside Animal Hospital (NC),Hannah Leonard,6/19/2023,New Grad
+4377,172,The Lighthouse Veterinary Clinic,Harshitha Chandrasekar,5/13/2024,Early Career
+4689,160,Animal Hospital of Peak Plaza,Ivy Gold,7/10/2024,New Grad
+5372,108,Parkway,James Brousse,11/26/2024,Experienced
+4706,177,Westwood Animal Hospital,Jennifer Farmer,7/15/2024,Experienced
+X7B9DT2Q0,220,Winter Garden Animal Hospital,Jennifer Macdonald,8/1/2023,New Grad
+NU7CHKVVR,162,Compassion Animal Hospital,Jessica Bowling,9/6/2023,New Grad
+I81713,234,Pleasantburg Veterinary Clinic,Jonathan Blanton,10/20/2022,Experienced
+J8VB5NC8V,120,Country Chase,Jordan Riha,6/21/2023,New Grad
+4930,174,Navarre Animal Hospital,Jordan Wallace,8/26/2024,New Grad
+4731,141,Durant,Justin Irgens,7/10/2024,New Grad
+SR9NQOLGP,275,Gulfshore Animal Hospital,Kim Schemmer,11/1/2023,Experienced
+Z73848,169,Jensen Beach Animal Hospital,Kimberly Craney,10/2/2023,Experienced
+OYPYA3409,146,Asheboro Animal Hospital,Kristen Livengood,12/5/2023,Early Career
+5216,160,Animal Hospital of Peak Plaza,Kristen Smith,10/28/2024,Experienced
+Y3PD845JP,189,Caldwell Animal Hospital,Kristina Schultz,6/20/2023,New Grad
+5411,146,Asheboro Animal Hospital,Kylie Hericks,12/3/2024,Early Career
+S21625,131,Panhandle,Lauren Hardy,7/15/2024,Early Career
+JZIEPOXLK,273,Baldwin Animal Clinic,Lauren Leger,12/1/2023,Experienced
+L79748,232,Baytree Animal Hospital,Leah Phipps,10/5/2022,Early Career
+99UHRAPG1,234,Pleasantburg Veterinary Clinic,Leo Krick,2/6/2023,New Grad
+5524,111,Heart of Florida,Leslie Montanez Pagan,1/7/2025,Experienced
+4700,161,Companion Animal Hospital,Lynsey Paschal Bennett,7/1/2024,Experienced
+INZP01VCH,187,Lake City Animal Hospital (GA),Madison Fellows,7/5/2023,New Grad
+4864,163,Raleigh Community Animal Hospital,Margaret Burtnett-Johnson,8/12/2024,Experienced
+M81717,234,Pleasantburg Veterinary Clinic,Mary Flowers,10/20/2022,Experienced
+4702,140,Lincolnton Animal Hospital,Matthew Karlheim,7/1/2024,New Grad
+4767,114,Atlas,Maygan Cuevas-Oquendo,7/24/2024,New Grad
+5463,113,Lineberger,Megan Bache,12/17/2024,Early Career
+XKDWBOK33,131,Panhandle,Megan Bollman,6/7/2023,New Grad
+B83042,125,Academy,Megan Mack,10/15/2024,Experienced
+4657,230,Lake City Animal Hospital (FL),Melanie Barnhill,6/26/2024,Early Career
+M79749,232,Baytree Animal Hospital,Michael Knight,10/5/2022,Experienced
+B45850,135,Kimbrough Animal Hospital,Michael Miller,4/1/2024,Experienced
+4274,143,West Boca Veterinary Center,Natalie Kolta,4/22/2024,New Grad
+26LMH44AL,194,Piedmont Equine Associates,Olivia Catarino,4/3/2023,Early Career
+N17W81D67,122,Spring Hill,Olivia Inoue,7/5/2023,Experienced
+3840,212,Bainbridge Animal Hospital,Patricia Dileo,1/2/2024,Experienced
+AV6UR9T2Z,184,Angel Animal Hospital and Boarding,Rachel Borwein,2/15/2023,Experienced
+3978,192,Forest Lakes Animal Clinic,Rhiannon Lewis,2/5/2024,Experienced
+J83106,152,South Ocala Animal Hospital,Roliana Sanchez,11/1/2022,Early Career
+6P1OLK1MA,135,Kimbrough Animal Hospital,Russell Stocks,1/25/2023,Experienced
+3797,151,Leesburg Animal Hospital,Ryan Mobley,1/1/2024,Early Career
+4970,138,Shepherd Spring,Samantha Batchelor,8/20/2024,Apprentice
+5493,110,All Pets,Samantha Roughton,12/30/2024,Early Career
+4780,126,Dogwood,Samantha Shetler,7/29/2024,Early Career
+5273,227,Animal General Hospital,Samantha Special,11/6/2024,Early Career
+AO99IN1AA,273,Baldwin Animal Clinic,Sarah Birdsong,12/1/2023,Early Career
+5228,163,Raleigh Community Animal Hospital,Shanice Harris,10/29/2024,New Grad
+4887,275,Gulfshore Animal Hospital,Stephanie Dowdy,8/6/2024,Experienced
+F1P0ROJLX,163,Raleigh Community Animal Hospital,Sydney Simmons,7/17/2023,New Grad
+AP5UGYCIU,223,Hillside Veterinary Hospital,Tara Butler,6/3/2024,New Grad
+ZRHDARPYR,273,Baldwin Animal Clinic,Tara Riddick,12/1/2023,Experienced
+5113,203,Daniels Parkway Animal Hospital,Thomas Mullins,10/1/2024,Experienced
+AM2G31T1Y,273,Baldwin Animal Clinic,Timothy Stewart,12/1/2023,Experienced
+4539,196,Cherryville Animal Hospital,Troy Telenko,7/8/2024,New Grad
+5011,129,Southside,Tyler Begg,9/3/2024,Early Career
+S44089,186,Bartow Animal Hospital,Tyler Brookshire,6/1/2024,New Grad
+4974,194,Piedmont Equine Associates,Veronica Edwards,8/26/2024,Experienced
