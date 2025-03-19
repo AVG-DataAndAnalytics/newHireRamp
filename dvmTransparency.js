@@ -98,6 +98,7 @@ function createGraph1(data, type) {
                 label: 'Actual Revenue Per Day',
                 data: data.map(row => row.revenueperday),
                 borderColor: 'rgb(62,177,200)',
+                backgroundColor: 'rgb(62,177,200)',
                 borderWidth: 2,
                 pointStyle: true,
                 pointRadius: 0
@@ -105,6 +106,7 @@ function createGraph1(data, type) {
                 label: 'Anticipated Revenue Per Day',
                 data: data.map(row => row.est_rpd),
                 borderColor: 'rgb(225,6,0)',
+                backgroundColor: 'rgb(225,6,0)',
                 borderWidth: 2,
                 pointStyle: true,
                 pointRadius: 0
@@ -118,7 +120,10 @@ function createGraph1(data, type) {
                 },
                 legend: {
                     labels: {
-                        usePointStyle: true
+                        usePointStyle: true,
+                        font: {
+                            size: 10
+                        }
                     }
                 }
             },
@@ -164,6 +169,7 @@ function createGraph2(data, type) {
                 label: 'Actual Visits Per Day',
                 data: data.map(row => row.visitsperday),
                 borderColor: 'rgb(62,177,200)',
+                backgroundColor: 'rgb(62,177,200)',
                 borderWidth: 2,
                 pointStyle: true,
                 pointRadius: 0
@@ -171,6 +177,7 @@ function createGraph2(data, type) {
                 label: 'Anticipated Visits Per Day',
                 data: data.map(row => row.est_vpd),
                 borderColor: 'rgb(225,6,0)',
+                backgroundColor: 'rgb(225,6,0)',
                 borderWidth: 2,
                 pointStyle: true,
                 pointRadius: 0
@@ -184,7 +191,10 @@ function createGraph2(data, type) {
                 },
                 legend: {
                     labels: {
-                        usePointStyle: true
+                        usePointStyle: true,
+                        font: {
+                            size: 10
+                        }
                     }
                 }
             },
@@ -229,6 +239,7 @@ function createGraph3(data, type) {
                 label: 'Actual Revenue Per Visit',
                 data: data.map(row => row.revenuepervisit),
                 borderColor: 'rgb(62,177,200)',
+                backgroundColor: 'rgb(62,177,200)',
                 borderWidth: 2, 
                 pointStyle: true,
                 pointRadius: 0
@@ -236,6 +247,7 @@ function createGraph3(data, type) {
                 label: 'Anticipated Revenue Per Visit',
                 data: data.map(row => row.est_rpv),
                 borderColor: 'rgb(225,6,0)',
+                backgroundColor: 'rgb(225,6,0)',
                 borderWidth: 2,
                 pointStyle: true,
                 pointRadius: 0
@@ -249,7 +261,10 @@ function createGraph3(data, type) {
                 },
                 legend: {
                     labels: {
-                        usePointStyle: true
+                        usePointStyle: true,
+                        font: {
+                            size: 10
+                        }
                     }
                 }
             },
