@@ -97,17 +97,17 @@ function createGraph1(data, type) {
             datasets: [{
                 label: 'Actual Revenue Per Day',
                 data: data.map(row => row.revenueperday),
-                borderColor: 'rgb(62,177,200)',
-                backgroundColor: 'rgb(62,177,200)',
-                borderWidth: 2,
+                borderColor: 'rgb(93, 198, 219)',
+                backgroundColor: 'rgb(93, 198, 219)',
+                borderWidth: 3,
                 pointStyle: true,
                 pointRadius: 0
             }, {
                 label: 'Anticipated Revenue Per Day',
                 data: data.map(row => row.est_rpd),
-                borderColor: 'rgb(225,6,0)',
-                backgroundColor: 'rgb(225,6,0)',
-                borderWidth: 2,
+                borderColor: 'rgb(252, 134, 130)',
+                backgroundColor: 'rgb(252, 134, 130)',
+                borderWidth: 3,
                 pointStyle: true,
                 pointRadius: 0
             }]
@@ -168,17 +168,17 @@ function createGraph2(data, type) {
             datasets: [{
                 label: 'Actual Visits Per Day',
                 data: data.map(row => row.visitsperday),
-                borderColor: 'rgb(62,177,200)',
-                backgroundColor: 'rgb(62,177,200)',
-                borderWidth: 2,
+                borderColor: 'rgb(93, 198, 219)',
+                backgroundColor: 'rgb(93, 198, 219)',
+                borderWidth: 3,
                 pointStyle: true,
                 pointRadius: 0
             }, {
                 label: 'Anticipated Visits Per Day',
                 data: data.map(row => row.est_vpd),
-                borderColor: 'rgb(225,6,0)',
-                backgroundColor: 'rgb(225,6,0)',
-                borderWidth: 2,
+                borderColor: 'rgb(252, 134, 130)',
+                backgroundColor: 'rgb(252, 134, 130)',
+                borderWidth: 3,
                 pointStyle: true,
                 pointRadius: 0
             }]
@@ -238,17 +238,17 @@ function createGraph3(data, type) {
             datasets: [{
                 label: 'Actual Revenue Per Visit',
                 data: data.map(row => row.revenuepervisit),
-                borderColor: 'rgb(62,177,200)',
-                backgroundColor: 'rgb(62,177,200)',
-                borderWidth: 2, 
+                borderColor: 'rgb(93, 198, 219)',
+                backgroundColor: 'rgb(93, 198, 219)',
+                borderWidth: 3, 
                 pointStyle: true,
                 pointRadius: 0
             }, {
                 label: 'Anticipated Revenue Per Visit',
                 data: data.map(row => row.est_rpv),
-                borderColor: 'rgb(225,6,0)',
-                backgroundColor: 'rgb(225,6,0)',
-                borderWidth: 2,
+                borderColor: 'rgb(252, 134, 130)',
+                backgroundColor: 'rgb(252, 134, 130)',
+                borderWidth: 3,
                 pointStyle: true,
                 pointRadius: 0
             }]

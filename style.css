@@ -109,6 +109,7 @@ body {
   color: #fafafa;
   padding: 7px;
   font-family: 'PT Sans', sans-serif;
+  font-weight: light;
   font-size: 20px;
   text-align: center;
   border-top-left-radius: 7px;
@@ -180,7 +181,6 @@ Early Career */
 
 
 .dvm .docName {
-  font-size: 0;
   line-height: 1.2;
   margin: 0;
   text-align: left;
@@ -189,7 +189,7 @@ Early Career */
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 18px;
+  font-size:24px;
   text-rendering: geometricPrecision;
   caret-color: rgba(0, 37, 84, 1);
   text-decoration: none;
@@ -200,7 +200,6 @@ Early Career */
 }
 
 .dvm .tenure {
-  font-size: 0;
   line-height: 1.2;
   margin: 0;
   text-align: left;
@@ -209,7 +208,7 @@ Early Career */
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 18px;
+  font-size: 20px;
   text-rendering: geometricPrecision;
   caret-color: rgba(0, 37, 84, 1);
   text-decoration: none;
@@ -221,7 +220,6 @@ Early Career */
 }
 
 .dvm .careerPhase {
-  font-size: 0;
   line-height: 1.2;
   margin: 0;
   text-align: left;
@@ -230,7 +228,7 @@ Early Career */
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 18px;
+  font-size: 20px;
   text-rendering: geometricPrecision;
   caret-color: rgba(0, 37, 84, 1);
   text-decoration: none;
